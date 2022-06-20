@@ -1,4 +1,4 @@
-<h1>Projeto Pokedéx<h1>
+<h1>Jogo do Humor<h1>
  
 #### Projeto desenvolvido no curso de Formação FullStack, ultilizando as tecnologias:
 + HTML
@@ -6,6 +6,6 @@
 + JAVASCRIPT
 
 
-#### Hospedado no GitPages: 
+#### Hospedado no GitPages: https://7copass.github.io/modullo-02-projeto-01/
 
 
